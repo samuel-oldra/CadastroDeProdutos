@@ -7,9 +7,9 @@
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
-          "inlineTemplate": true,
-          "inlineStyle": true,
-          "skipTests": true
+          "inlineTemplate": false,
+          "inlineStyle": false,
+          "skipTests": false
         },
         "@schematics/angular:class": {
           "skipTests": true
@@ -104,6 +104,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "frontend"
+    }
+  },
+  "defaultProject": "frontend",
+  "cli": {
+    "analytics": "188d9b35-cf6e-4213-aed4-ac16196483a9"
+  }
 }
