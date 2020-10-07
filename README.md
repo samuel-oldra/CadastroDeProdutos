@@ -1,0 +1,1 @@
+![alt text](https://bitbucket.org/samuel-oldra/exemplo-crud-angular-10/raw/bac3e4551f251167048a36a999ac3ffd5a6b1ad1/README_IMGS/ng%20new.png)
