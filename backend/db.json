@@ -19,6 +19,16 @@
       "name": "Lapis Preto Básico",
       "price": "1.50",
       "id": 4
+    },
+    {
+      "name": "Geladeira",
+      "price": "1800.90",
+      "id": 5
+    },
+    {
+      "name": "Chevrolet Chevette",
+      "price": "7500.50",
+      "id": 6
     }
   ]
 }
