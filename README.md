@@ -4,14 +4,15 @@
 <p align="center">
   <a href="#tecnologias-e-práticas-utilizadas">Tecnologias e práticas utilizadas</a> •
   <a href="#funcionalidades">Funcionalidades</a> •
-  <a href="#funcionalidades">Telas</a> •
-  <a href="#telas">Comandos</a>
+  <a href="#telas">Telas</a> •
+  <a href="#comandos">Comandos</a>
 </p>
 
 Sistema de Cadastro de Produtos.
 
 ## Tecnologias e práticas utilizadas
 - Angular 10
+- Angular Material UI 10
 - Programação Orientada a Objetos
 
 ## Funcionalidades
